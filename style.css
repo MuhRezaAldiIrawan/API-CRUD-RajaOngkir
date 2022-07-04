@@ -1,0 +1,55 @@
+h3 {
+    font-size: 25px;
+    text-align: center;
+    margin-bottom: 21px;
+    color: #333;
+    text-transform: uppercase;
+    margin-top: 70px;}
+
+select.form-control {
+    -moz-appearance: none;
+    -webkit-appearance: none;
+    cursor: pointer;
+    color: #999; }
+    select.form-control option[value=""][disabled] {
+    display: none; }
+
+
+input, textarea, select, button {
+    font-family: "Montserrat-Regular";
+    font-size: 15px;
+    color: #666; }
+
+p {
+    margin-top: 20px;
+}
+
+.form-control{
+    margin-top: 30px;
+    padding: 30px;
+  }
+
+.form-control {
+    height: 47px;
+    display: block;
+    border: 1px solid #e6e6e6;
+    background: none;
+    border-radius: 5px;
+    padding: 0 19px; }
+    .form-control:focus {
+      border: 1px solid #f4d5cc; }
+    .form-control::-webkit-input-placeholder {
+      color: #999; }
+    .form-control::-moz-placeholder {
+      color: #999; }
+    .form-control:-ms-input-placeholder {
+      color: #999; }
+    .form-control:-moz-placeholder {
+      color: #999; }
+ input{
+        margin-top: 20px;
+      }
+      
+.form-control {
+    margin-bottom: 20px; }
+
